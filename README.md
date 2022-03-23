@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Jonathan! Welcome to my page! 👋
 ![hwkcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwkcode&theme=highcontrast&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwkcode&theme=highcontrast)
