@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![hwkcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwkcode)](https://github.com/hwkcode/github-readme-stats)
-
+[![hwkcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwkcode&theme=highcontrast&show_icons=true)
 <!--
 **hwkcode/hwkcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
