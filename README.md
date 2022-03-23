@@ -1,5 +1,7 @@
 ### Hi, I'm Jonathan! Welcome to my page! 👋
-<img src="https://user-images.githubusercontent.com/91816632/159702126-12aad9be-cfe6-49dd-ad8a-4421954834fb.png" width="100" height="100">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91816632/159702126-12aad9be-cfe6-49dd-ad8a-4421954834fb.png" width="200" height="200">
+</p>
 
 
 ![hwkcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwkcode&theme=highcontrast&show_icons=true)
