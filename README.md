@@ -1,5 +1,4 @@
-<p align="center">
-  ### Hi, I'm Jonathan! Welcome to my page! 👋
+<h1 align="center">Hi, I'm Jonathan! Welcome to my page! 👋 </h1>
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91816632/159702126-12aad9be-cfe6-49dd-ad8a-4421954834fb.png" width="200" height="200">
