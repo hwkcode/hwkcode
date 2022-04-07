@@ -12,7 +12,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwkcode&theme=highcontrast)
 
-![visitors](https://visitor-badge.deta.dev/badge?page_id=page.id&left_color=red&right_color=green)
+![visitors](https://visitor-badge.deta.dev/badge?page_id=hwkcode.visitor-badge)
  
 <!--
 **hwkcode/hwkcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
