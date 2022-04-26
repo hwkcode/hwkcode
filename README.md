@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jonathan! Welcome to my page! 👋 </h1>
 
-<img align="left" src="./jonathan.png" width="370" height="370">
+<img align="left" src="./jonathan.png" width="350" height="350">
 
 
  
