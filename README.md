@@ -54,7 +54,7 @@
 <br />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hwkcode&theme=highcontrast&show_icons=true" width="498">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" align="left"/> 
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" align="left"/></code>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" height="60" align="left"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" height="60" align="left"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" align="left"/> 
