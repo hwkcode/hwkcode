@@ -54,24 +54,24 @@
 <br />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hwkcode&theme=highcontrast&show_icons=true" width="498">
 
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react.js"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="babel"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain-wordmark.svg" alt="heroku"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react.js"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="babel"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain-wordmark.svg" alt="heroku"></code>
 <br/><br/>
 <img src="https://visitor-badge.deta.dev/badge?page_id=hwkcode.visitor-badge"/> 
 <br/>
