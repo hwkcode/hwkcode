@@ -71,7 +71,7 @@
 <br /><br /><br /><br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60" align="left"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="70" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="60" align="left"/>
 <br /><br /><br /><br /><br />
 <img src="https://visitor-badge.deta.dev/badge?page_id=hwkcode.visitor-badge"/> 
 <br/><br/>
