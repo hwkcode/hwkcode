@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jonathan! Welcome to my page! 👋 </h1>
 
-<img align="left" src="./jonathan.png" width="350" height="350">
+<img align="left" src="./jonathan.png" width="325" height="325">
 
 
  
@@ -52,7 +52,7 @@
 }
 ``` -->
 <br />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hwkcode&theme=highcontrast&show_icons=true" width="500">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hwkcode&theme=highcontrast&show_icons=true" width="400">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" align="left"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" height="70" align="left"/> 
