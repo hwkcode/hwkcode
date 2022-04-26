@@ -52,7 +52,7 @@
 }
 ``` -->
 <br />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hwkcode&theme=highcontrast&show_icons=true" width="450">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hwkcode&theme=highcontrast&show_icons=true" width="475">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" align="left"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" height="70" align="left"/> 
