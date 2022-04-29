@@ -3,7 +3,7 @@
 <img align="left" src="./jonathan.png" width="335" height="335">
 
 ```
-🗂️ jonathan 
+ 🗂️ jonathan 
   ├─ 📁 projects  
   │  ├─ 📁 CovidShooter/         # An interactive 2D shooting game shooting vaccine shots at the incoming coronaviruses.
   │  ├─ 📁 Netplex/              # A picture-perfect, single-page application of Netflix, a video streaming platform.
