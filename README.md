@@ -17,7 +17,7 @@
   │  ├─ 📄 Cornell_University      # Master of Business Administration 
   │  ├─ 📄 Esade_Business_School   # Master of Business Administration 
   │  └─ 📄 Binghamton_University   # Bachelor of Science in Accounting
-  
+  └─ 📄 style.css
 ```
 <br />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hwkcode&theme=highcontrast&show_icons=true" width="490">
