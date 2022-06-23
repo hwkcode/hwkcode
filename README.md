@@ -10,7 +10,7 @@
   │  └─ 📁 interView/              # A video interviewing platform where users can practice their interviewing skills and elicit feedback.
   ├─ 📁 experience 
   │  ├─ 📄 technology              # Wayfair, IBM, Amazon
-  │  ├─ 📄 hedgefund               # Capstone Investment Addvisors, SS&C GlobeOp, Meridian Fund Services
+  │  ├─ 📄 hedgefund               # Capstone Investment Advisors, SS&C GlobeOp, Meridian Fund Services
   │  └─ 📄 non-profit              # Global Goods Partners
   ├─ 📁 education 
   │  ├─ 📄 App_Academy             # 16-week intensive course in full-stack software development with a 3% acceptance rate
