@@ -5,9 +5,9 @@
 ```
  🗂️ jonathan 
   ├─ 📁 projects  
-  │  ├─ 📁 CovidShooter/           # An interactive 2D shooting game shooting vaccine shots at the incoming coronaviruses.
-  │  ├─ 📁 Netplex/                # A picture-perfect, single-page application of Netflix, a video streaming platform.
-  │  └─ 📁 interView/              # A video interviewing platform where users can practice their interviewing skills and elicit feedback.
+  │  ├─ 📁 CovidShooter            # An interactive 2D shooting game shooting vaccine shots at the incoming coronaviruses.
+  │  ├─ 📁 Netplex                 # A picture-perfect, single-page application of Netflix, a video streaming platform.
+  │  └─ 📁 interView               # A video interviewing platform where users can practice their interviewing skills and elicit feedback.
   ├─ 📁 experience 
   │  ├─ 📄 technology              # Wayfair, IBM, Amazon
   │  ├─ 📄 hedgefund               # Capstone Investment Advisors, SS&C GlobeOp, Meridian Fund Services
