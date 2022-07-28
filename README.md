@@ -20,7 +20,8 @@
   └─ 📄 style.css
 ```
 <br />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hwkcode&theme=highcontrast&show_icons=true&include_all_commits=true&count_private=true" width="490">
+
+<img width="490" align="right" src="https://github-readme-stats.vercel.app/api?username=hwkcode&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby"></code>
